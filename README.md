@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Omuthe
 - 👀 I’m interested in learning how to work with Git
 - 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate 
+- 💞️ I’m looking to Expand my knowledge on full stack developement
 - 📫 How to reach me billclinton19951@gmail.com
 
 <!---
